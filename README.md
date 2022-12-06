@@ -17,6 +17,6 @@ Please adhere to this project's `code of conduct`, Please raise Issues or PR in 
 
 ### Tech Stack
 
-**Client:** React, Redux, Ant Designs
+**Client:** React, Redux, Material-UI
 
 **Server:** Node, Express
